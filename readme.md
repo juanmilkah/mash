@@ -1,0 +1,3 @@
+# Mash
+
+A minimalistic shell
